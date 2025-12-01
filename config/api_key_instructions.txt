@@ -4,4 +4,4 @@ You must first create this file `.env` and add your API key like this: `GOOGLE_A
 
 GOOGLE_API_KEY='AIzaSyD8F67cy8l0F0jzj5ZFu4t9JIOUjKnB31A'
 
-GEMINI_API_KEY='AIzaSyBAQ51uRicuh-4Dcnz2BQuT0otPDuFkA6w'
+GOOGLE_API_KEY_2='AIzaSyB0MXdAuVM4uNKN2rPYIXC1PMOn0uUSlv4'
