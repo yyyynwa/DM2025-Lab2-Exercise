@@ -2,6 +2,4 @@ IMPORTANT: The script loads your API key from a `.env` file located in this `./c
 
 You must first create this file `.env` and add your API key like this: `GOOGLE_API_KEY='YOUR_API_KEY_HERE'`
 
-GOOGLE_API_KEY='AIzaSyD8F67cy8l0F0jzj5ZFu4t9JIOUjKnB31A'
-
-GOOGLE_API_KEY_2='AIzaSyB0MXdAuVM4uNKN2rPYIXC1PMOn0uUSlv4'
+GOOGLE_API_KEY='AIzaSyB0MXdAuVM4uNKN2rPYIXC1PMOn0uUSlv4'
